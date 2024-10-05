@@ -48,4 +48,3 @@ This project implements a deep learning-based model to recognize handwritten dig
 ---
 
 **Author:** [Rafi Zahedi](https://github.com/RafiZahedi)
-```
